@@ -1,4 +1,4 @@
-package com.azsyed.model.events;
+package com.azsyed.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 

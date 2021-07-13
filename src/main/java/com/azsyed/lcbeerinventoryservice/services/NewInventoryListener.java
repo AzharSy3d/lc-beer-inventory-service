@@ -1,6 +1,6 @@
 package com.azsyed.lcbeerinventoryservice.services;
 
-import com.azsyed.model.events.NewInventoryEvent;
+import com.azsyed.brewery.model.events.NewInventoryEvent;
 import com.azsyed.lcbeerinventoryservice.config.JmsConfig;
 import com.azsyed.lcbeerinventoryservice.domain.BeerInventory;
 import com.azsyed.lcbeerinventoryservice.repositories.BeerInventoryRepository;

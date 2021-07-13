@@ -1,4 +1,4 @@
-package com.azsyed.model;
+package com.azsyed.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
