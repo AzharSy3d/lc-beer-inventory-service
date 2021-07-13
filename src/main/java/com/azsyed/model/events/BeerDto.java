@@ -1,4 +1,4 @@
-package com.azsyed.common.events;
+package com.azsyed.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

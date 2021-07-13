@@ -1,4 +1,4 @@
-package com.azsyed.common.events;
+package com.azsyed.model.events;
 
 import lombok.NoArgsConstructor;
 

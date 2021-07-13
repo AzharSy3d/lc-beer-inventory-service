@@ -1,7 +1,7 @@
 package com.azsyed.lcbeerinventoryservice.web.mappers;
 
 import com.azsyed.lcbeerinventoryservice.domain.BeerInventory;
-import com.azsyed.lcbeerinventoryservice.web.model.BeerInventoryDto;
+import com.azsyed.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 /**

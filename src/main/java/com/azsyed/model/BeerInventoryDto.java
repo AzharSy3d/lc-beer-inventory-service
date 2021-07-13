@@ -1,4 +1,4 @@
-package com.azsyed.lcbeerinventoryservice.web.model;
+package com.azsyed.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

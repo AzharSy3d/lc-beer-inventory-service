@@ -2,7 +2,7 @@ package com.azsyed.lcbeerinventoryservice.web.controllers;
 
 import com.azsyed.lcbeerinventoryservice.repositories.BeerInventoryRepository;
 import com.azsyed.lcbeerinventoryservice.web.mappers.BeerInventoryMapper;
-import com.azsyed.lcbeerinventoryservice.web.model.BeerInventoryDto;
+import com.azsyed.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
